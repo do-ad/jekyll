@@ -29,6 +29,7 @@ markdown: GFM
 url: "https://runbk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+linkedin_username: runbk
 
 # Build settings
 theme: minima
